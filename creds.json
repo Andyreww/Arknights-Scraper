@@ -1,0 +1,7 @@
+{
+  "sqlite_arknights": {
+    "dbdir": "dbfile",
+    "database": "arknights",
+    "scheme": "sqlite"
+  }
+}
