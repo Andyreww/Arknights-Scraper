@@ -13,7 +13,7 @@ To use the scraper, clone this repository and install the required packages usin
 ```
 pip install -r requirements.txt
 ```
-Then, run the `arknights_scraper.py` script to scrape the data and save it to a CSV file:
+Then, run the arknights_scraper.py script to scrape the data and save it to a SQLite database using the `sqlite3` library:
 
 
 ```
