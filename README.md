@@ -19,7 +19,7 @@ Then, run the arknights_scraper.py script to scrape the data and save it to a SQ
 ```
 python arknights_scraper.py
 ```
-This will scrape the data from the Arknights Wiki and the Arknights Database, and save the scraped data to a SQLite database called arknights_data.db. The database will contain the following tables:
+This will scrape the data from the Arknights Wiki and the Arknights Database, and save the scraped data to a SQLite database called arknights.db. The database will contain the following tables:
 
 # SQL Database Output
 
