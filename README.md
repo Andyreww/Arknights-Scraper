@@ -6,7 +6,6 @@ This repository contains a collection of Python scripts for scraping data about 
 - Python 3.6 or higher
 - The following Python packages:
   - requests
-  - bs4 (BeautifulSoup)
   - sqlalchemy
 # Usage
 To use the scraper, clone this repository and install the required packages using pip:
